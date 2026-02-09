@@ -1,0 +1,4 @@
+United Arab Emirates,Oman,Korea,Qatar,Kuwait,Saudi Arabia,Brunei,Singapore,Barbados,Argentina,Uruguay,Chile,New Zealand
+Azerbaijan,Pakistan,Bahrain,Philippines,Georgia,Kazakhstan,Cambodia,Lebanon,Malaysia,Mongolia,Bangladesh,Nepal,Tajikistan,Thailand,Uzbekistan,Armenia,Iraq,Iran,Indonesia,Jordan,Algeria,Egypt,Ethiopia,Angola,Benin,Botswana,Burkina Faso,Burundi,Togo,Cape Verde,Gambia,Guinea,Guinea-Bissau,Ghana,Gabon,Zimbabwe,Cameroon,Comoros,Cote d'Ivoire,Kenya,Lesotho,Libya,Rwanda,Madagascar,Mali,Morocco,Namibia,South Africa,Niger,Sierra Leone,Senegal,Sudan,Tanzania,Uganda,Zambia,Chad,Central Africa,Russia,Dominican,Cuba,Honduras,Nicaragua,El Salvador,Jamaica,Peru,Bolivia,Ecuador,Fiji,Samoa,Tonga,Vanuatu
+Tunisia,Albania,Austria,Belarus,Bulgaria,North Macedonia,Bosnia and Herzegovina,Poland,Montenegro,Croatia,Luxembourg,Romania,Moldova,Serbia,Slovenia,Ukraine,Hungary,Italy
+Estonia,Czech Republic,Latvia,Lithuania,Malta,Portugal,Cyprus,Slovakia,Greece,Costa Rica

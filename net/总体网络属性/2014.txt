@@ -1,0 +1,24 @@
+KRACKHARDT GTD MEASURES
+--------------------------------------------------------------------------------
+
+Input dataset:                C:\Users\YihengSu\Desktop\STNWR\net\net2014
+Output dataset:               C:\Users\YihengSu\Desktop\STNWR\net\GTD
+
+
+Krackhardt GTD Measures
+
+                        1
+                   ------
+    Connectedness  1.0000
+        Hierarchy  0.1499
+       Efficiency  0.8064
+              LUB  0.9946
+
+
+GTD measures saved as dataset: GTD
+
+----------------------------------------
+Running time:  00:00:01
+Output generated:  19 2ÔÂ 25 16:33:48
+Copyright (c) 1999-2008 Analytic Technologies
+
